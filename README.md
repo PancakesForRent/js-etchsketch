@@ -4,5 +4,5 @@ The aim of this project is to display a breadth of knowledge and skills that wer
 
 
 **Issues:**
-- Weird flex behavior when box grid is 90x90 or greater
+- Weird flex behavior for some grid sizes
 - Could be due to the width and height calculation of the boxes
